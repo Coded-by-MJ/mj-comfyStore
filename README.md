@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Desktop](/src/assets/images/web.png)
+![Desktop](/src/assets/desktop.png)
 
 ### Links
 
