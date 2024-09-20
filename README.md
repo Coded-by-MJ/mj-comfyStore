@@ -1,8 +1,25 @@
-# React + Vite
+# Comfy Store (E-commerce website)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+![Desktop](/src/assets/images/web.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Links
+
+- Live Site URL: [mj-comfystore](https://mj-comfystore.vercel.app/)
+
+## My process
+
+### Built with
+
+- ReactJS
+- Tanstack React Query
+- React Router 6
+- Daisy UI
+- Tailwind CSS
+- Mobile-first workflow
+
+## Author
+
+- Email - [Miracle Justice](mailto:miracleosemudiahen@hotmail.com)
+- Twitter - [@MiracleJustice\_](https://x.com/MiracleJustice_)
